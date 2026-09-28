@@ -1,0 +1,1 @@
+<h1 style="font-family:sans-serif; padding:2rem;">Halaman Contact</h1>
